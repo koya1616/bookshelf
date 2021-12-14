@@ -1,24 +1,8 @@
-# README
+railsのindexとforeign_keyについておしえてください。
+https://teratail.com/questions/63406
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Railsの現場でよく見る書き方【実例あり】
+https://qiita.com/ryokky59/items/988f25fa1fb6b9aefa8e
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+【Rails】 paramsって一体何？使い方を徹底解説！
+https://pikawaka.com/rails/params
