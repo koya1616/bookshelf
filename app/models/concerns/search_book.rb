@@ -22,5 +22,6 @@ module SearchBook
         else
         where({})
         end
-        }
-  
+      }
+    end
+end
